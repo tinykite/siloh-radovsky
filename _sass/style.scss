@@ -1,0 +1,50 @@
+/* Reset */
+html, body, div, object, h1, h2, h3, h4, h5, h6, p, blockquote, object, iframe, ol, ul, li, form, legend, label, table, header, footer, nav, section, figure, hgroup, span, aside, pre, a, img, tr, th, td, tbody, tfoot, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+header, footer, nav, section, article, main, figure, li {
+	display: block;
+}
+
+$max-width: 500px;
+
+body {
+line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+body {
+	margin-top: 1em;
+	font-size: 16px;
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 100%;
+	padding-top: 2em;
+}
+
+img {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+p {
+	font-size: 1.5em;
+	line-height: 1.5;
+}

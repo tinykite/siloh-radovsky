@@ -1,0 +1,19 @@
+{% assign post = include.post %}
+{% assign is_excerpt = include.is_excerpt %}
+
+<article>
+  {% if is_excerpt %}
+   <h1 class="article-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  {% endif %}
+  {% if post.date %}
+    <em>Posted on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time></em>
+  {% endif %}
+  {% if post.lead_image %}
+	<img src="{{ post.lead_image }}">
+  {% endif %}
+  {% if is_excerpt %}
+      {{ post.excerpt | markdownify }}
+    {% else %}
+      {{ post.content | markdownify }}
+    {% endif %}
+ </article>

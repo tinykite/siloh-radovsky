@@ -1,0 +1,41 @@
+title: Siloh Radovsky
+description: Siloh Radovsky is a writer currently at work on a collection of short stories themed around contemporary relationships to bodily health, particularly concerning the treatment of mental illness and emotional malaise.
+baseurl: ""
+url: ""
+timezone: America/Chicago
+date_format: "%b %d, %Y"
+
+markdown: kramdown
+gems:
+  - jekyll-feed
+
+collections:
+  posts:
+    title: Posts
+    output: true
+  blog_tags:
+    title: Tags
+    output: true
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/:title/"
+    layout: post
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    layout: tag
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - README.md
+  - .DS_Store
