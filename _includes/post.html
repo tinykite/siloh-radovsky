@@ -1,19 +1,33 @@
 {% assign post = include.post %}
 {% assign is_excerpt = include.is_excerpt %}
 
-<article>
   {% if is_excerpt %}
-   <h1 class="article-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  {% endif %}
-  {% if post.date %}
-    <em>Posted on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time></em>
-  {% endif %}
+<article class="excerpt">
+  <h2 class="article-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    {% if post.date %}<h2 class="date">On <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time></h2>{% endif %}
+   {{ post.excerpt | markdownify }}
+  {% else %}
   {% if post.lead_image %}
-	<img src="{{ post.lead_image }}">
+   <article class="two-column">
+      <img src="{{ post.lead_image }}">
+  {% else %}
+      <article class="one-column">
   {% endif %}
-  {% if is_excerpt %}
-      {{ post.excerpt | markdownify }}
-    {% else %}
+  <section class="story">
+  <h2 class="article-title">{{ post.title }}</h2>
+  {% if post.date %}<h2 class="date">On <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time></h2>{% endif %}
       {{ post.content | markdownify }}
-    {% endif %}
- </article>
+   <section class="article_meta"><h5>Tagged 
+        {% for post_tag in post.tags %}
+          {% assign post_tag_downcase = post_tag | downcase %}
+          {% for site_tag in site.blog_tags %}
+            {% assign site_tag_title = site_tag.title | downcase %}
+            {% if site_tag_title == post_tag_downcase %}
+              <a href="{{ site_tag.permalink }}"> {{ site_tag.title }}</a>{% if forloop.last==false %}, {% endif %}
+             {% endif %}
+          {% endfor %}
+        {% endfor %}
+        </h5>
+    </section>
+{% endif %}
+</article>
