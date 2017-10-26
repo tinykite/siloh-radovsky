@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Cereal, Indefinitely — Aesthetics and Redemptive Habits (Spring 2015)"
+title:  "Cereal, Indefinitely"
 date:   2015-08-07
 tags: projects
+lead_image: "/images/covers/cereal-indefinitely-square.jpg"
 old_tags: adorno, Aesthetics, collage, Colonization, critique, depression, descartes, Donuts, fad, food fad, health food, kant, Paleo Diet, portland, specialty donut, Walter Benjamin
 old_categories: essay, projects, research
+weight: 1
 ---
 Beginning with a field trip to a campus cafeteria and then taking a hair-pin turn into some contemporary cultural lifestyle trends, I try to examine what a trifecta of neon fitness gear, artistanal donuts, and bone broth can tell us about how the redemption of “happiness” is represented in the ethereal space of popular culture and public expression.
 
@@ -13,4 +15,3 @@ As the connection between physical and emotional health are simultaneously hyper
 Click the link below for a June 2015 iteration of this ongoing project, complete with typos:
 
 [![Failure to Thrive (Spring 2013)](http://silohradovsky.net/wp-content/uploads/2014/10/failure-to-thrive-unimposed.pdf)](http://silohradovsky.net/wp-content/uploads/2015/09/cereal-indefinitely.pdf)
-
