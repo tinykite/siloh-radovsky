@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="one-column">
-<h3 class="alt">Tagged: {{ page.title }}</h3>
+<h3 class="tag">Tagged: {{ page.title }}</h3>
 {% assign tag = page.title | downcase %}{% assign tag_posts = site.tags[tag] %}
 {% for post in tag_posts %}
 {% include post.html post=post is_excerpt=true %}{% endfor %}
