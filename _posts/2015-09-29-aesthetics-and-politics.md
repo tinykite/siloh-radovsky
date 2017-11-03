@@ -2,7 +2,7 @@
 layout: post
 title: "Aesthetics and Politics (Verso, 2007): Expressionism"
 date: 2015-09-29
-tags: [aesthetics, research]
+tags: aesthetics research
 old_tags: Aesthetics, Bloch, Expressionism, Fascism, Lukács, Marxism, Politics, Realism
 old_categories: Research
 ---
