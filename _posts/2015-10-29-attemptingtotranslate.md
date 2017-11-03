@@ -2,7 +2,7 @@
 layout: post
 title:  "Attempting to Translate 'The Mass Ornament'"
 date:   2015-10-29
-tags: [research, aesthetics]
+tags: research aesthetics
 old_tags: adorno, Aesthetics, body, cartesian, dance, ekphrasis, kracauer, media, pop culture
 ---
 ![Accompanying photo for The Mass Ornament](/assets/images/download.jpg)
