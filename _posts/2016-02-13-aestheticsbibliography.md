@@ -2,7 +2,7 @@
 layout: post
 title:  "Aesthetics Bibliography: Spring 2015"
 date:   2016-02-13
-tags: [aesthetics, research]
+tags: aesthetics research
 ---
 A long list of media, read and unread, which pertain to aesthetics. Philosophical aesthetics, art, popular culture, and the impact of reproduction upon poetry and image. Included here for archival purposes, mainly because they provide useful terminology for the study of pop culture and/or literature in the present. Do they matter to read? Maybe. (Asterik = yes.)
 
