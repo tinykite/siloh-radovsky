@@ -1,8 +1,6 @@
 <div class="wrapper">
-  <nav>
-  <header class="name">
-<a href="{{site.url}}"><h1 class="title">Siloh Radovsky</h1></a>
-</header>
+<nav>
+<span class="title"><a href="{{site.url}}">Siloh Radovsky</a></span>
 <ul class="nav">{% for item in site.data.navigation.header %}
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
 </ul>
