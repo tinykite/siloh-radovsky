@@ -5,7 +5,7 @@ date: 2015-10-27
 tags: research
 old_tags: antioxidants, blogosphere, contemporary studies, domesticity, food fad, health food, Paleo Diet, Sarah Britton, vegan, vegetarian
 ---
-![Photo of Sarah Britton](/assets/images/sarah.jpg)
+![Photo of Sarah Britton](http://d158fmezuuwv7a.cloudfront.net/sarah.jpg)
 Sarah Britton. My New Roots. New York: Clarkson Potter Publishers, 2015.
 
 A highly-stylized and comprehensive presentation of a synthesis between slightly contradictory tendencies of veganism and the ancestral diet, carried through tales of local-food celebration with a slight nod to grain-free cuisine and its creative applications of chia seeds.
@@ -28,4 +28,4 @@ She gives readers a grasp on the components of a largely-vegetarian meal (sauce,
 
 I want to cook “Roasted Pumpkin with Black Rice and Tangerine Tahini Sauce,” (188-9) and “butternut stacks with kale pesto, kasha, and butter beans.” (222) Sushi made with soaked sunflower seeds.
 
-![Photo of app on iphone](/assets/images/mynewroots_app_widget4.jpg)
+![Photo of app on iphone](http://d158fmezuuwv7a.cloudfront.net/mynewroots_app_widget4.jpg)

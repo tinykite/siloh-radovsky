@@ -6,7 +6,7 @@ tags: aesthetics research
 old_tags: Aesthetics, Bloch, Expressionism, Fascism, Lukács, Marxism, Politics, Realism
 old_categories: Research
 ---
-![Photo of Theodor Adorno's Aesthetics and Politics](/assets/images/9781844675708-frontcover-max_221-ada8451995792015f70a74d4866ab8b9.jpg)
+![Photo of Theodor Adorno's Aesthetics and Politics](http://d158fmezuuwv7a.cloudfront.net/9781844675708-frontcover-max_221-ada8451995792015f70a74d4866ab8b9.jpg)
 Adorno, Theodor, et. al. _Aesthetics and Politics_. London, New York: Verso, 2007.
 
 ---
@@ -19,7 +19,7 @@ Presentation I: Bloch Against Lukács
 
 ---
 
-![Photo of Der Blaue Reiter Cover](/assets/imagesBlaueReiter.jpg)
+![Photo of Der Blaue Reiter Cover](http://d158fmezuuwv7a.cloudfront.net/BlaueReiter.jpg)
 First essay in this compilation is an essay by Bloch (1932, subsequently re-published with slight modifications in 1962), translated by Rodney Livingstone.
 
 Close to the heart of this argument between Bloch and Lukács seem to be deliberations about populism in art. At worse, did the idealism and/or emphatic subjectivism of Expressionism facilitate the solvency of Fascism in the era in which this debate occurred? With a less sinister edge, was its emotionalism bourgeois, and thus responsible for perpetuating art forms which are increasingly irrelevant to broader culture?

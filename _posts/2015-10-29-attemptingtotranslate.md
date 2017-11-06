@@ -5,7 +5,7 @@ date:   2015-10-29
 tags: research aesthetics
 old_tags: adorno, Aesthetics, body, cartesian, dance, ekphrasis, kracauer, media, pop culture
 ---
-![Accompanying photo for The Mass Ornament](/assets/images/download.jpg)
+![Accompanying photo for The Mass Ornament](http://d158fmezuuwv7a.cloudfront.net/download.jpg)
 Siegfried Kracauer. “The Mass Ornament.” In Mass Ornament: Weimar Essays. Translated by Thomas Y. Levin. Cambridge, MA: Harvard University Press, 1995, 74-86.
 
 An excavation which proceeds sectionally, as does Kracauer:

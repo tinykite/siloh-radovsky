@@ -3,7 +3,7 @@ layout: post
 title:  "Cereal, Indefinitely"
 date:   2015-08-07
 tags: projects
-lead_image: "/images/covers/cereal-indefinitely-square.jpg"
+lead_image: "http://d158fmezuuwv7a.cloudfront.net/cereal-indefinitely-square.jpg"
 old_tags: adorno, Aesthetics, collage, Colonization, critique, depression, descartes, Donuts, fad, food fad, health food, kant, Paleo Diet, portland, specialty donut, Walter Benjamin
 old_categories: essay, projects, research
 weight: 1
@@ -14,4 +14,4 @@ As the connection between physical and emotional health are simultaneously hyper
 
 Click the link below for a June 2015 iteration of this ongoing project, complete with typos:
 
-[![Failure to Thrive (Spring 2013)](http://silohradovsky.net/wp-content/uploads/2014/10/failure-to-thrive-unimposed.pdf)](http://silohradovsky.net/wp-content/uploads/2015/09/cereal-indefinitely.pdf)
+![Cereal, Indefinitely (Spring 2013)](http://d158fmezuuwv7a.cloudfront.net/cereal-indefinitely.pdf)
