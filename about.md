@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 Siloh Radovsky received her B.A. from the Evergreen State College, where she took an interdisciplinary approach to writing, often merging word and image. Her previous work includes numerous chapbooks as well as non-fiction essays, often themed around the contemporary complexities of utopianism and nostalgia, especially as they relate to art and medicine.
 
