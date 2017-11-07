@@ -14,4 +14,4 @@ As the connection between physical and emotional health are simultaneously hyper
 
 Click the link below for a June 2015 iteration of this ongoing project, complete with typos:
 
-![Cereal, Indefinitely (Spring 2013)](http://d158fmezuuwv7a.cloudfront.net/cereal-indefinitely.pdf)
+[Cereal, Indefinitely](http://d158fmezuuwv7a.cloudfront.net/cereal-indefinitely.pdf)
