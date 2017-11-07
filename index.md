@@ -1,5 +1,6 @@
 ---
-layout: page
+title: Projects
+permalink: /tags/projects/
+link-state: projects
+layout: projects
 ---
-![Cover of Zine](http://silohradovsky.net/wp-content/uploads/2015/08/cover-6.jpg)
-{: .hero}
