@@ -1,7 +1,7 @@
 header:
-- title: Projects
-  url: /tags/projects/
 - title: About
   url: /about/
-- title: Contact
-  url: /contact/
+- title: Projects
+  url: /tags/projects/
+- title: Services
+  url: /services/
