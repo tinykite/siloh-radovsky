@@ -9,7 +9,7 @@ layout: default
  {% for item in sorted_index %}
  <article class="tile">
  <a class="link" href="{{ item.url }}">
-<img class="cover" src="{{ site.url }}{{ item.lead_image }}">
+<img class="cover" src="{{ item.lead_image }}">
 </a>
  <span class="caption"><h3>{{ item.title }}</h3></span>
 </article>
