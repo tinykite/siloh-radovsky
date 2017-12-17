@@ -1,10 +1,9 @@
 ---
-layout: services
+layout: page
 title: Services
 permalink: /services/
 ---
-
-## Tutoring 
+### Tutoring 
 
 From high-stakes scholarship essays, cover letters, and research papers to experimental fiction, poetry, and personal writing, writing is best undertaken as a collaborative process. My goal is to help clients deliver the best work they can while developing confidence in the writing process as a whole. As tutor, I provide feedback and coaching on matters of clarity, content, style, and voice tailored to diverse learning styles and genres of work. Writers define what success means to them, and I act to support its realization. Together we create an environment where expression comes more easily. 
 
