@@ -38,4 +38,4 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Link State", name: "link-state", widget: "string"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "tag"}
+      - {label: "Layout", name: "layout", widget: "string"}
