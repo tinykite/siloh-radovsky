@@ -4,7 +4,6 @@ title:  "The Ghost in the Machine"
 date:   2015-10-24
 lead_image: "http://d158fmezuuwv7a.cloudfront.net/ghost-in-the-machine-4-square.jpg"
 tags: research projects
-old_categories: Aesthetics, Comic, Essay, Projects, Visual
 old_tags: adorno, apocalypse, cartoon, collage, Colonization, comic, contemporary studies, domesticity, drawing, experiment, experimental fiction, Food, herb school, herbalism, Lorraine Daston, New Narrative, Paleo Diet, research, sianne ngai, Thierry de Duve, Walter Benjamin
 weight: 3
 ---

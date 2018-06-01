@@ -4,7 +4,6 @@ title: "Aesthetics and Politics (Verso, 2007): Expressionism"
 date: 2015-09-29
 tags: aesthetics research
 old_tags: Aesthetics, Bloch, Expressionism, Fascism, Lukács, Marxism, Politics, Realism
-old_categories: Research
 ---
 ![Photo of Theodor Adorno's Aesthetics and Politics](http://d158fmezuuwv7a.cloudfront.net/9781844675708-frontcover-max_221-ada8451995792015f70a74d4866ab8b9.jpg)
 Adorno, Theodor, et. al. _Aesthetics and Politics_. London, New York: Verso, 2007.
