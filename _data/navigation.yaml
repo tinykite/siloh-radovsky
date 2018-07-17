@@ -1,9 +1,9 @@
 header:
 - title: About
-  url: /about/
+  url: /about
 - title: Blog
-  url: /blog/
+  url: /blog
 - title: Projects
-  url: /tags/projects/
+  url: /tags/projects
 - title: Services
-  url: /services/
+  url: /services
