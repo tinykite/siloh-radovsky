@@ -2,11 +2,11 @@
 layout: default
 ---
 <div class="heading">
-<h2 class="alt">{{ page.title }}</h2>{% assign tag = page.title | downcase %}{% assign tag_posts = site.tags[tag] %}
- {% assign sorted_index = tag_posts | sort: 'weight' %}
+<h2 class="alt">{{ page.title }}</h2>
  </div>
 <main>
- {% for item in sorted_index %}
+	{% assign projects = site.projects %}
+ {% for item in projects %}
  <article class="tile">
  <a class="link" href="{{ item.url }}">
 <img class="cover" src="{{ item.lead_image }}">

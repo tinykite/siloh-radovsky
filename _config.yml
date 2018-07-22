@@ -13,6 +13,10 @@ collections:
   posts:
     title: Posts
     output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: /projects/:path/
   blog_tags:
     title: Tags
     output: true
