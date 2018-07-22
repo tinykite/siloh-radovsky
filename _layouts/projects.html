@@ -5,7 +5,7 @@ layout: default
 <h2 class="alt">{{ page.title }}</h2>
  </div>
 <main>
-	{% assign projects = site.projects %}
+	{% assign projects = site.projects | sort: 'weight'  %}
  {% for item in projects %}
  <article class="tile">
  <a class="link" href="{{ item.url }}">
