@@ -2,7 +2,6 @@
 layout: post
 title:  "Cereal, Indefinitely"
 date:   2015-08-07
-tags: projects
 lead_image: "http://d158fmezuuwv7a.cloudfront.net/cereal-indefinitely-square.jpg"
 old_tags: adorno, Aesthetics, collage, Colonization, critique, depression, descartes, Donuts, fad, food fad, health food, kant, Paleo Diet, portland, specialty donut, Walter Benjamin
 old_categories: essay, projects, research
