@@ -37,12 +37,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Lead Image", name: "lead_image", widget: "string", required: false}
-      - {label: "Tags", name: "tags", widget: "string"}
-      - {label: "Old Tags", name: "old_tags", widget: "string", required: false}
+      - {label: "Tags", name: "tags", widget: "string", required: false}
       - {label: "Weight", name: "weight", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
 
   - name: "tags" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Tag" # Used in the UI, ie.: "New Post"
