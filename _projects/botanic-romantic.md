@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Botanic Romantic
+lead_image: screen-shot-2019-06-25-at-11.47.23-am.png
 tags: 'wellness, research'
 weight: '3'
 ---
