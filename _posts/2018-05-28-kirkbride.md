@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Kirkbride"
-date: 2018-05-28
+title: Kirkbride
 tags: cartesiandivide nonduality mentalhealth history economy
 ---
-The following was read at Red May Seattle's 2018 "Mass Reading," which was held at Vermillion Bar and Gallery on May 27th, in a dark and dingy back room.
+The following was read at Red May Seattle's 2018 "Mass Reading," which was held at Vermillion Bar and Gallery on May 27th, 2018 in a dark and dingy back room.
 
 It’s amazing how long it’s taken me to discover non-duality in a tangibly practical way, but even so I forget about gray area or two non-contradictory yet oppositional approaches. 
 
@@ -16,4 +15,4 @@ While troubled by this reality and feigning aversion to the purely aesthetic I s
 
 Immediately before all of this history my own brother had appeared to me completely by accident on a city bus scratching his nappy head, eyes noticing me at first before he retreated back into a hostile privacy. His smell is thick like weed and sour milk. His toes are sticking out of old Pumas so I can tell he’s not wearing any socks. Toes are red and raw. There are little skin flaps around his eyes now. I keep thinking his eyes are like black fish-hooks he’ll sink into me when he decides to but otherwise I bounce right off of him, he repels me. Nicotine stained, those flaps look like droplets of oil. My concern for him is so intrusive and tender, hurt by his illegibility and stubborness, by the fact of his privacy. Especially when one knows the plants, animals, and chemicals that could shake him. He needs a place to sleep. Bedrest. 
 
-Back to walking the perimeter of the hospital, the world seems like an hourglass or another building as rotund as that — gutted, defunct, waiting to get filled up again. I crave the specificity of a right way to live, and the space and time for its actualization. I struggle to stay awake during the daytime, while considering such questions: “Will eating food make me fat? What should I eat for breakfast? Should I eat breakfast?” Funny stuff, but also serious stuff like “What do you do about the things that don’t get better with medication?” I wonder whether my own physical distress is measurable on the scale of these other concerns. Surely there are vulnerabilities that exceed my comprehension of the non-exclusivity (or multi-directionality) of mutual influence. I’ve invited a cultural reflex towards perfectionism to be my subject. It’s abrupt, jarring. For the abject there are residential vouchers, biochemical factors, places where permissions are needed; all across the land treatment has a reason and must be justified. 
+Back to walking the perimeter of the hospital, the world seems like an hourglass or another building as rotund as that — gutted, defunct, waiting to get filled up again. I crave the specificity of a right way to live, and the space and time for its actualization. I struggle to stay awake during the daytime, while considering such questions: “Will eating food make me fat? What should I eat for breakfast? Should I eat breakfast?” Funny stuff, but also serious stuff like “What do you do about the things that don’t get better with medication?” I wonder whether my own physical distress is measurable on the scale of these other concerns. Surely there are vulnerabilities that exceed my comprehension of the non-exclusivity (or multi-directionality) of mutual influence. I’ve invited a cultural reflex towards perfectionism to be my subject. It’s abrupt, jarring. For the abject there are residential vouchers, biochemical factors, places where permissions are needed; all across the land treatment has a reason and must be justified.
