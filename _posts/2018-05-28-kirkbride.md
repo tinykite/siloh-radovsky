@@ -3,7 +3,7 @@ layout: post
 title: Kirkbride
 tags: cartesiandivide nonduality mentalhealth history economy
 ---
-The following was read at Red May Seattle's 2018 "Mass Reading," which was held at Vermillion Bar and Gallery on May 27th, 2018 in a dark and dingy back room.
+_The following was read at Red May Seattle's 2018 "Mass Reading," which was held at Vermillion Bar and Gallery on May 27th, 2018 in a dark and dingy back room._
 
 It’s amazing how long it’s taken me to discover non-duality in a tangibly practical way, but even so I forget about gray area or two non-contradictory yet oppositional approaches. 
 
