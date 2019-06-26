@@ -20,6 +20,9 @@ collections:
   blog_tags:
     title: Tags
     output: true
+  pages:
+    title: Pages
+    output: true
 
 defaults:
 - scope:
@@ -33,6 +36,12 @@ defaults:
     type: blog_tags
   values:
     layout: tag
+- scope:
+    path: ''
+    type: pages
+  values:
+    permalink: "/:title/"
+    layout: page
 
 sass:
   style: compressed

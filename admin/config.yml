@@ -56,3 +56,18 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Link State", name: "link-state", widget: "string"}
       - {label: "Layout", name: "layout", widget: "string"}
+
+  - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "page" # Used in UI, ie.: "New Page"
+    folder: "_pages"
+    sort: "title:asc" # default is title:asc
+    create: true
+    slug: "{{slug}}"
+    editor: 
+     preview: false
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
